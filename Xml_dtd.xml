@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE college[
+    <!ELEMENT college
+    (name, roll_no.)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT roll_no. (#PCDATA)>
+    ]>
+   <college>
+        <class1>
+            <name>Pata nhi</name>
+            <roll_no.>kya pata</roll_no.>
+        </class1>
+        <class2>
+            <name>Pata nhi</name>
+            <roll_no.> pata</roll_no.>
+        </class2>
+
+        
+   </college>

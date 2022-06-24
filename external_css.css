@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+}
+.body{
+    font-size: 30px;
+    color: rgb(225, 82, 82);
+    text-align: center;
+}
